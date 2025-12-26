@@ -9,7 +9,7 @@ This project implements three distinct nature-inspired optimization approaches:
 
 It renders their search process in real-time using `matplotlib`, demonstrating how different algorithms navigate the search space of this classic NP-hard problem.
 
-![Screenshot](asd.jpg)  
+![Screenshot](https://github.com/user-attachments/assets/8495679a-7bec-4b4f-95b3-8b1c7cce3451)  
 
 ## 🚀 Features
 
